@@ -1,7 +1,9 @@
-// Name - Devanshu Dave
-// Student ID - 100785733
-// Type- ICE 7
-
+/**
+ * @author Devanshu Dave
+ * @version 0.01
+ * Type - ICE 7
+ * Date - 03/11/021
+ */
 package ca.durhamcollege;
 
 public class Main
@@ -9,7 +11,7 @@ public class Main
 
     public static void main(String[] args)
     {
-	    Person person = new Person("Devanshu", 40);
+	    Person person = new Person("Devanshu", 19);
         person.saysHello();
     }
 }
